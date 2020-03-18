@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControlDeCitas/ControlDeCitas.iml" filepath="$PROJECT_DIR$/ControlDeCitas/ControlDeCitas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pruebas.iml" filepath="$PROJECT_DIR$/Pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlDeCitas/src/main/main.iml" filepath="$PROJECT_DIR$/ControlDeCitas/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlDeCitas/src/test/test.iml" filepath="$PROJECT_DIR$/ControlDeCitas/src/test/test.iml" />
     </modules>
   </component>
 </project>
